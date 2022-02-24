@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 echo 'ALX School'
+=======
+echo "ALX School"
+>>>>>>> 0b83921e3618427ec8bd59992511bbf08b31d8a8
 #!/bin/bash
 
